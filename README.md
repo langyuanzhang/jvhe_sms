@@ -28,7 +28,7 @@
 12.	如果需要购买十条以上需要去购买服务
 
 
-```
+```php
 //调用方法 
 $sms_res = $this->sendSms($tradeNo,$paymoney);
 
